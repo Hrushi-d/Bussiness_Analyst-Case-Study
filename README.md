@@ -17,7 +17,8 @@ The primary goal of this case study is to derive meaningful insights from the da
 ## Significance
 This case study serves as an example of how data analysis can be leveraged to drive decision-making in real-world scenarios. It can be useful for professionals and students looking to enhance their data analysis skills and understanding of practical applications.
 
-## Author
-**Hrushikesh Dagwar**  
-[Email](mailto:hrushikeshdagwar@gmail.com)
+## Contact Us 📧
+Have questions, feedback, or need assistance? Reach out to:
+- Email: [hrushikeshdagwar@gmail.com](mailto:hrushikeshdagwar@gmail.com)
+
 
