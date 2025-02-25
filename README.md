@@ -1,1 +1,1 @@
-# Bussiness_Analyst-Case-Study
+# Warehouse and Retail Sales Analysis Case Study
