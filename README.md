@@ -19,11 +19,7 @@ The analysis is based on the **Warehouse_and_Retail_Sales.csv** dataset, which c
    ```bash
    git clone https://github.com/yourusername/repository-name.git
    ```
-2. **Install Dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. **Run the Jupyter Notebook**
+2. **Run the Jupyter Notebook**
    ```bash
    jupyter notebook Case_Study.ipynb
    ```
