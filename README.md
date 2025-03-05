@@ -17,7 +17,7 @@ The analysis is based on the **Warehouse_and_Retail_Sales.csv** dataset, which c
 ## How to Get Started 🚀
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/repository-name.git
+   git clone https://github.com/yourusername/Bussiness_Analyst-Case-Study.git
    ```
 2. **Run the Jupyter Notebook**
    ```bash
